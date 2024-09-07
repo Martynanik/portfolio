@@ -28,7 +28,11 @@ html, body {
   text-overflow: ellipsis; /* Add ellipsis for overflowing text */
 }
 
-
+.text{
+  white-space: nowrap; /* Prevent text from wrapping */
+  overflow: hidden; /* Hide any overflowed text */
+  text-overflow: ellipsis; /* Add ellipsis for overflowing text */
+}
 .toolbar-text:hover{
   color: grey;
 
