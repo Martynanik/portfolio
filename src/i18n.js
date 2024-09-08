@@ -96,7 +96,7 @@ i18n
                 },
                 home: {
                     "first" :"Sveiki! Mano vardas Martyna Nikšaitė, esu pradedančioji programuotoja iš Lietuvos. Specializuojuosi kuriant paprastas, minimalistines svetaines, daug dėmesio skiriu naudotojų patirčiai ir švariam dizainui. Savo darbuose vadovaujuosi principu \"simplicity is the key\".",
-                    "second": "Be meilės technologijoms ir dizainui, taip pat domiuosi kalbomis, istorija ir turiu didžiuliulę aistrą keliauti.",
+                    "second": "Be meilės technologijoms ir dizainui, taip pat domiuosi kalbomis, istorija ir turiu didžiulę aistrą keliauti.",
                 },
                 contact: {
                     "contactQuestion": "Norite vizualiai patrauklios, patogios svetainės, kurią galėtumėte valdyti ir atnaujinti patys?",
